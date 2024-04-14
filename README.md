@@ -30,7 +30,7 @@ The script performs the following tasks:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your_username/nike-product-scraper.git
+   git clone https://github.com/Sohail7000/Nike-Product-Scraper.git
    ```
 
 2. Create a `config.py` file in the project directory with your MongoDB connection URL:
